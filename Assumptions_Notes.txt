@@ -1,0 +1,41 @@
+========================================================================
+CASE STUDY & FINANCIAL MODELING EXERCISE: TECHNOVA SOLUTIONS S.P.A.
+========================================================================
+
+1. PROFILO AZIENDALE
+TechNova Solutions S.p.A. è un'azienda italiana leader nel settore dell'Information Technology (IT). Specializzata in servizi software B2B e trasformazione digitale, la società ha vissuto una forte fase di espansione nel quinquennio 2021-2025, consolidando il fatturato e accumulando una solida riserva di liquidità grazie a un business model altamente scalabile.
+
+2. OBIETTIVO DELL'ESERCITAZIONE
+L'obiettivo del progetto è duplice:
+  a) Costruire un Modello Finanziario Integrato a 3 Statements (Conto Economico, Stato Patrimoniale, Rendiconto Finanziario) su un orizzonte di proiezione a 5 anni (2026-2030) per verificare la sostenibilità della crescita e l'evoluzione della cassa.
+  b) Effettuare una valutazione del valore intrinseco aziendale tramite la metodologia del Discounted Cash Flow (DCF), determinando l'Enterprise Value, l'Equity Value e il Target Price per azione.
+
+3. LINEE GUIDA E ASSUNZIONI DEL MODELLO (FORECAST PERIOD: 2026-2030)
+
+A. Conto Economico (Income Statement)
+  - Revenue Growth Rate: Fissato al 10,0% nel 2026, per poi decrescere linearmente di 1 punto percentuale all'anno (9% nel 2027, 8% nel 2028, 7% nel 2029, 6% nel 2030).
+  - COGS (% of Revenues): Previsto stabile al 26,0% dei ricavi per l'intero orizzonte di previsione.
+  - SG&A (% of Revenues): Riflette un miglioramento dell'efficienza operativa. Impostato al 35,0% nel 2026, al 34,5% nel 2027, e fisso al 34,0% dal 2028 al 2030.
+  - D&A (% of CapEx): Gli ammortamenti seguono storicamente le spese in conto capitale. La D&A è stimata pari all'85% del CapEx di ciascun anno corrente.
+  - Tax Rate: Costante al 25,0% calcolato sull'Utile Ante Imposte (EBT).
+
+B. Capitale Circolante Netto (Working Capital Drivers)
+Invece di utilizzare percentuali fisse sui ricavi, il modello adotta il metodo standard dei giorni di rotazione:
+  - Days Sales Outstanding (DSO): Costante a 36,5 giorni (su base storica 2025), calcolato sui Ricavi.
+  - Days Inventory Outstanding (DIO): Costante a 60,5 giorni, calcolato sul COGS.
+  - Days Payable Outstanding (DPO): Costante a 72,8 giorni, calcolato sul COGS.
+
+C. Stato Patrimoniale e Flussi Finanziari (CapEx & Debt)
+  - Capital Expenditures (CapEx): Investimenti fissi a 12,0 milioni di € all'anno per supportare l'espansione tecnologica e strutturale.
+  - Rimborso Debito (Debt Paydown): Piano di ammortamento del debito esistente pari a 5,0 milioni di € all'anno fino al totale azzeramento dello stesso (previsto nel 2029).
+  - Tasso di Interesse sul Debito: Fissato al 6,0% calcolato sul debito di fine periodo.
+  - Interessi Attivi sulla Cassa: Assunti pari allo 0,0% per motivi di semplificazione accademica.
+  - Dividendi e Aumenti di Capitale: Assunti pari a 0 (tutti gli utili netti vengono interamente trattenuti a Riserva).
+
+D. Parametri di Valutazione DCF
+  - Tasso Risk-Free (rf): 2,0%
+  - Market Return (rm): 12,0%
+  - Beta di settore (β): 1,4
+  - Tasso di crescita terminale (g): 2,0%
+  - Azioni in circolazione (Diluted Shares Outstanding): 10,0 milioni
+========================================================================
