@@ -24,7 +24,7 @@ Il modello prevede una crescita dei ricavi sostenibile che riflette la maturità
 ### Evoluzione dei Ricavi e del Margine Lordo
 L'andamento storico (2021-2025) e le proiezioni (2026-2030) mostrano una crescita costante dei volumi supportata dalla stabilità della marginalità industriale.
 
-![Revenues vs Gross Profit](./revenus_vs_grossprofit.png)
+![Revenues vs Gross Profit](/images/DCF_v_net_PFN.png)
 
 ### Sintesi delle Proiezioni Finanziarie (€ Mln)
 
@@ -70,7 +70,7 @@ I flussi di cassa non vincolati (uFCFF) mantengono un tasso di conversione eccez
 * **Terminal Value ($g = 2.0\%$):** €485.50 Mln (Attualizzato a oggi: **€245.93 Mln**)
 * **Enterprise Value (EV):** **€413.11 Mln**
 
-![DCF Valuation vs Net PFN](./DCF_v_net_PFN.png)
+![DCF Valuation vs Net PFN](images/DCF_v_net_PFN.png)
 
 ### Dal Valore di Impresa al Target Price
 
